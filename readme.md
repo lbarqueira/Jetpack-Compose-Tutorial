@@ -16,3 +16,20 @@ UI elements are hierarchical, with elements contained in other elements. In Comp
 
 Compose is built to support material design principles. Many of its UI elements implement material design out of the box. In this lesson, you'll style your app with material widgets.
 
+### Lesson 4: Lists and animations
+
+Lists and animations are everywhere in apps. In this lesson, you will learn how Compose makes it easy to create lists and fun to add animations.
+
+
+### Here’s what you've learned so far:
+
+Here’s what you've learned so far:
+
+- Defining composable functions
+- Adding different elements in your composable
+- Structuring your UI component using layout composables
+- Extending composables by using modifiers
+- Creating an efficient list
+- Keeping track of state and modifying it
+- Adding user interaction on a composable
+- Animating messages while expanding them
